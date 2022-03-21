@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE83d311d3b2412e0DAA7904C1644C6702B1EEc04",
+  "SCAN_LINK": "https://etherscan.io/token/0xe83d311d3b2412e0daa7904c1644c6702b1eec04",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "MMA Frequency",
+  "SYMBOL": "MF",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mmafrequency",
+  "SHOW_BACKGROUND": true
+}
